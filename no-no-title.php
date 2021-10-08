@@ -2,7 +2,7 @@
 /**
  * Plugin Name:     No '(no title)'
  * Plugin URI:      https://github.com/magicoli/no-no-title
- * Description:     Replace '(no title)' in admin lists by an excerpt of the excerpt for posts with empty titles
+ * Description:     Show an excerpt instead of '(no title)' in admin lists for posts with empty titles.
  * Author:          Magiiic
  * Author URI:      https://magiiic.com/
  * Text Domain:     no-no-title
@@ -10,6 +10,13 @@
  * Version:         0.1.0
  *
  * @package         No_No_Title
+ *
+ * Icon1x: https://git.magiiic.com/wordpress/no-no-title/-/raw/master/assets/icon-128x128.jpg
+ * Icon2x: https://git.magiiic.com/wordpress/no-no-title/-/raw/master/assets/icon-256x256.jpg
+ * BannerHigh: https://git.magiiic.com/wordpress/no-no-title/-/raw/master/assets/banner-1544x500.jpg
+ * BannerLow: https://git.magiiic.com/wordpress/no-no-title/-/raw/master/assets/banner-772x250.jpg
+ *
+ * Slight adjustments from the solution posted on Solution found on https://wordpress.stackexchange.com/questions/189671/show-excerpt-if-no-title-in-admin-view
  */
 
 /**
