@@ -35,3 +35,6 @@ add_action( 'load-edit.php', function()
     return $title;
   } );
 } );
+
+if(file_exists(plugin_dir_path( __FILE__ ) . 'updates.php'))
+include_once plugin_dir_path( __FILE__ ) . 'updates.php';
