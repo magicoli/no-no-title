@@ -27,7 +27,10 @@ I added a filter to replace line breaks with spaces, to avoid collapsing words w
 
 == Installation ==
 
-No settings needed. Once activated, the list will replace '(no title)' with an excerpt in admin lists.
+- Download latest stable release from (https://magiiic.com/updates/?action=download&slug=no-no-title)
+- or in command-line (don't forget the quotes)
+  `wp plugin install 'https://magiiic.com/updates/?action=download&slug=no-no-title'`
+- No settings needed. Once activated, the list will replace '(no title)' with an excerpt in admin lists.
 
 
 == Changelog ==
