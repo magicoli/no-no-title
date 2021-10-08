@@ -24,7 +24,7 @@ add_action( 'load-edit.php', function()
   {
     $post = get_post();
     if( is_a( $post, '\WP_Post' ) && ! $post->post_title && $post->post_content )
-    $title = wp_trim_words( strip_shortcodes( strip_tags( $post->post_content ) ), 10 );
+    $title = wp_trim_words( strip_shortcodes( strip_tags( wpautop ( preg_replace('/\n|<br>|<p>/i', ' ', $post->post_content ), false ) ) ), 10 );
     return $title;
   } );
 } );
