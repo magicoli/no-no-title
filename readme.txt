@@ -35,5 +35,8 @@ I added a filter to replace line breaks with spaces, to avoid collapsing words w
 
 == Changelog ==
 
+= 1.0.1 =
+* added download instructions to Installation section
+
 = 1.0 =
 * Simple and stupid. It just works.

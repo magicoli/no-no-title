@@ -7,7 +7,7 @@
  * Author URI:      https://magiiic.com/
  * Text Domain:     no-no-title
  * Domain Path:     /languages
- * Version:         1.0
+ * Version:         1.0.1
  *
  * @package         No_No_Title
  *
