@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     No '(no title)'
- * Plugin URI:      https://magiiic.com/
+ * Plugin URI:      https://github.com/magicoli/no-no-title
  * Description:     Replace '(no title)' in admin lists by an excerpt of the excerpt for posts with empty titles
  * Author:          Magiiic
  * Author URI:      https://magiiic.com/
