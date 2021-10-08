@@ -9,7 +9,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Show an excerpt instead of '(no title)' in admin lists for posts with empty titles.
+Show an excerpt instead of '(no title)' in admin lists for posts without title.
 
 
 == Description ==

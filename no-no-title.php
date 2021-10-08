@@ -2,7 +2,7 @@
 /**
  * Plugin Name:     No '(no title)'
  * Plugin URI:      https://github.com/magicoli/no-no-title
- * Description:     Show an excerpt instead of '(no title)' in admin lists for posts with empty titles.
+ * Description:     Show an excerpt instead of '(no title)' in admin lists for posts without title.
  * Author:          Magiiic
  * Author URI:      https://magiiic.com/
  * Text Domain:     no-no-title
